@@ -36,7 +36,7 @@ npm run start:dev
 
 ## Stack usado
 
-- MySQL
+- Postgress (SQL)
 - Nest
 
 ## License
